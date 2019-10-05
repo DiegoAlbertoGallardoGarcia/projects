@@ -1,0 +1,28 @@
+#img-1 {
+	background-image: url('../img/img-1.jpg');
+	height: 600px;
+	background-size: 100%;
+	padding: 150px;
+}
+#img-jb {
+	width: 40%;
+	margin: auto;
+	text-align: center;
+	color: #FFF;
+	background-color: rgba(0,0,0,0.7);
+}
+#txt-1 {
+	text-align: center;
+	background-color: #E5E5E5;
+	padding: 10px;
+}
+#txt-2 {
+	text-align: center;
+}
+#txt-2 hr {
+	width: 30px;
+	border: solid 1px #000;
+}
+.img-career {
+	height: 80px;
+}
